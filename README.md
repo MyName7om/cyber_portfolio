@@ -1,2 +1,3 @@
-# cyber_portfolio
-Notes and projects.
+# Thomas Allan 
+
+This is a portfolio showing my learning into Cybersecurity.
